@@ -8,6 +8,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableConfigServer
+
 public class HystrixDashBoard1Application {
 
 	public static void main(String[] args) {
