@@ -206,6 +206,7 @@
             </configuration>
         </plugin>
     </plugins>
+    <finalName>employee-microservice</finalName>
 </build>
 
 
