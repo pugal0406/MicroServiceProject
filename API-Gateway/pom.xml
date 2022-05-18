@@ -116,6 +116,7 @@
             </configuration>
         </plugin>
     </plugins>
+    <finalName>api-microservice</finalName>
 </build>
 	
 
